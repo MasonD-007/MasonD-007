@@ -7,7 +7,6 @@ import {
   CardHeader,
   CardTitle,
 } from './ui/card'
-import Image from 'next/image'
 import { Badge } from './ui/badge'
 import { Github } from 'lucide-react'
 
@@ -15,22 +14,12 @@ interface ProjectCardProps {
   title: string
   description: string
   tech: string[]
-  image: string
   link: string
 }
 
-export function ProjectCard({ title, description, tech, image, link }: ProjectCardProps) {
+export function ProjectCard({ title, description, tech, link }: ProjectCardProps) {
   return (
     <Card className="overflow-hidden hover:scale-105 transition-transform duration-200">
-      <div className="relative h-48 w-full">
-        <Image
-          src={image}
-          alt={title}
-          fill
-          className="object-cover"
-          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-        />
-      </div>
       <CardHeader>
         <CardTitle className="flex items-center justify-between">
           {title}
