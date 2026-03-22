@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a customer insight Saas platform.<br>👯 I’m looking to collaborate on full-stack development projects.<br>🤝 I’m looking for help with landing an internship.<br>🌱 I’m currently learning next.js, Vercel, and Supabase.<br>
+🔭 I’m currently working with Keysight.<br>👯 I’m looking to collaborate on full-stack development projects.<br>🤝 I’m looking for help with landing an internship.<br>🌱 I’m currently learning next.js, Vercel, and Supabase.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masondrake/)
