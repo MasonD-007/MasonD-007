@@ -11,15 +11,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://masond-007.github.io/MasonD-007/gh-pages/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/MasonD-007/MasonD-007/gh-pages/github-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://masond-007.github.io/MasonD-007/gh-pages/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/MasonD-007/MasonD-007/gh-pages/github-snake.svg"
     />
     <img
       alt="GitHub contributions"
-      src="https://masond-007.github.io/MasonD-007/gh-pages/github-snake.svg"
+      src="https://raw.githubusercontent.com/MasonD-007/MasonD-007/gh-pages/github-snake.svg"
     />
   </picture>
 </a>
