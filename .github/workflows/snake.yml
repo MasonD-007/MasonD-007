@@ -17,3 +17,5 @@ jobs:
       - uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: dist
+          branch: main
+          target_folder: snake
