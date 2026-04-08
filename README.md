@@ -4,15 +4,15 @@
     <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mason%20Drake&section=header&reversal=false&textBg=false&fontColor=ffffff&desc=Software%20Engineer%20|%20Full-Stack%20|%20Homelab%20%26%20Networking&descAlignY=66&fontAlignY=45&animation=fadeIn&descSize=24"
+          srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mason%20Drake&section=header&reversal=false&textBg=false&fontColor=ffffff&desc=Software%20Engineer%20|%20Full-Stack%20|%20Homelab%20and%20Networking&descAlignY=66&fontAlignY=45&animation=fadeIn&descSize=24"
         />
         <source
           media="(prefers-color-scheme: light)"
-          srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mason%20Drake&section=header&reversal=false&textBg=false&fontColor=000000&desc=Software%20Engineer%20|%20Full-Stack%20|%20Homelab%20%26%20Networking&descAlignY=66&fontAlignY=45&animation=fadeIn&descSize=24"
+          srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mason%20Drake&section=header&reversal=false&textBg=false&fontColor=000000&desc=Software%20Engineer%20|%20Full-Stack%20|%20Homelab%20and%20Networking&descAlignY=66&fontAlignY=45&animation=fadeIn&descSize=24"
         />
         <img
           alt="Mason Drake - Software Engineer"
-          src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mason%20Drake&section=header&reversal=false&textBg=false&fontColor=000000&desc=Software%20Engineer%20|%20Full-Stack%20|%20Homelab%20%26%20Networking&descAlignY=66&fontAlignY=45&animation=fadeIn&descSize=24"
+          src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mason%20Drake&section=header&reversal=false&textBg=false&fontColor=000000&desc=Software%20Engineer%20|%20Full-Stack%20|%20Homelab%20and%20Networking&descAlignY=66&fontAlignY=45&animation=fadeIn&descSize=24"
           width="100%"
         />
     </picture>
@@ -148,7 +148,5 @@ Welcome to my digital space! I'm a developer passionate about building scalable 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
   <br><br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=MasonD-007&icon=2&color=9" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MasonD-007&style=flat-square&color=blue" alt="Profile Views" />
 </div>
