@@ -1,7 +1,22 @@
 <!-- Header Section -->
 <div align="center">
-  <h1>Hi there, I'm Mason 👋</h1>
-  <h3>Software Engineer | Full-Stack Developer</h3>
+  <a href="https://www.linkedin.com/in/masondrake/">
+    <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mason%20Drake&section=header&reversal=false&textBg=false&fontColor=ffffff&desc=Software%20Engineer%20|%20Full-Stack%20|%20Homelab%20%26%20Networking&descAlignY=66&fontAlignY=45&animation=fadeIn&descSize=24"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mason%20Drake&section=header&reversal=false&textBg=false&fontColor=000000&desc=Software%20Engineer%20|%20Full-Stack%20|%20Homelab%20%26%20Networking&descAlignY=66&fontAlignY=45&animation=fadeIn&descSize=24"
+        />
+        <img
+          alt="Mason Drake - Software Engineer"
+          src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mason%20Drake&section=header&reversal=false&textBg=false&fontColor=000000&desc=Software%20Engineer%20|%20Full-Stack%20|%20Homelab%20%26%20Networking&descAlignY=66&fontAlignY=45&animation=fadeIn&descSize=24"
+          width="100%"
+        />
+    </picture>
+  </a>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/masondrake/" target="_blank">
@@ -64,6 +79,17 @@ Welcome to my digital space! I'm a developer passionate about building scalable 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+</details>
+
+<details open>
+<summary><b>🖥️ Infrastructure & Homelab</b></summary>
+<br>
+  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 </details>
 
 <details open>
